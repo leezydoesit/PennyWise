@@ -1,0 +1,12 @@
+.copyrightText {
+  color: black;
+  font-weight: normal;
+  text-decoration: none;
+  transition: all 0.3s ease;
+}
+
+.copyrightText:hover {
+  transform: scale(1.1);
+  font-weight: 700;
+  text-decoration: underline;
+}
